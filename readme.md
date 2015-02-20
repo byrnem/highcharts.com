@@ -30,4 +30,3 @@ If the fix is critical for your project, we recommend that you apply the fix to 
 * The next (optional) step is to compile the source code in order to reduce file size. Copy the result from the patched file.
 * Go to the [Closure Compiler web app](http://closure-compiler.appspot.com/home).
 * Paste the patched file contents to the left and click "Compile".
-
